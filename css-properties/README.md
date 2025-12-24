@@ -100,4 +100,3 @@
 
 ![Screenshot](public/image.png)
 ![Screenshot](public/image2.png)
-![Screenshot](public/image3.png)
