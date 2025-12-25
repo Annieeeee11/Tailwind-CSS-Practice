@@ -1,7 +1,7 @@
 # CSS Practice: Pseudo-classes, Pseudo-elements, and State Modifiers
 
 ## Pseudo-classes
-- ![DOC](https://tailwindcss.com/docs/hover-focus-and-other-states)
+- [DOC](https://tailwindcss.com/docs/hover-focus-and-other-states)
 
 ### Interactive States
 - `hover:{utility}` - Applies style when element is hovered
